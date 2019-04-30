@@ -1,0 +1,7 @@
+E:\SEGD Y3\Dissertation\Development\WebsocketsConsole\bin\Debug\WebsocketsConsole.exe.config
+E:\SEGD Y3\Dissertation\Development\WebsocketsConsole\bin\Debug\WebsocketsConsole.exe
+E:\SEGD Y3\Dissertation\Development\WebsocketsConsole\bin\Debug\WebsocketsConsole.pdb
+E:\SEGD Y3\Dissertation\Development\WebsocketsConsole\obj\Debug\WebsocketsConsole.csprojAssemblyReference.cache
+E:\SEGD Y3\Dissertation\Development\WebsocketsConsole\obj\Debug\WebsocketsConsole.csproj.CoreCompileInputs.cache
+E:\SEGD Y3\Dissertation\Development\WebsocketsConsole\obj\Debug\WebsocketsConsole.exe
+E:\SEGD Y3\Dissertation\Development\WebsocketsConsole\obj\Debug\WebsocketsConsole.pdb
