@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Tik_Tak_Toe_Clean", "Tik_Tak_Toe_Clean\Tik_Tak_Toe_Clean.pyproj", "{E92A656A-2C69-4DDF-8B6D-0DC08881118B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E92A656A-2C69-4DDF-8B6D-0DC08881118B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E92A656A-2C69-4DDF-8B6D-0DC08881118B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68F0D2B6-1784-46F7-95F8-3187F08F8AC7}
+	EndGlobalSection
+EndGlobal
