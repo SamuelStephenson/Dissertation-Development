@@ -1,0 +1,6 @@
+E:\SEGD Y3\Dissertation\Development\WebSockets\obj\Debug\netcoreapp2.1\WebSockets.csprojAssemblyReference.cache
+E:\SEGD Y3\Dissertation\Development\WebSockets\obj\Debug\netcoreapp2.1\WebSockets.csproj.CoreCompileInputs.cache
+E:\SEGD Y3\Dissertation\Development\WebSockets\obj\Debug\netcoreapp2.1\WebSockets.RazorAssemblyInfo.cache
+E:\SEGD Y3\Dissertation\Development\WebSockets\obj\Debug\netcoreapp2.1\WebSockets.RazorAssemblyInfo.cs
+E:\SEGD Y3\Dissertation\Development\WebSockets\obj\Debug\netcoreapp2.1\WebSockets.AssemblyInfoInputs.cache
+E:\SEGD Y3\Dissertation\Development\WebSockets\obj\Debug\netcoreapp2.1\WebSockets.AssemblyInfo.cs

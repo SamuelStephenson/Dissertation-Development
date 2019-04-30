@@ -44,7 +44,7 @@ namespace WebSockets.SocketsManager
                 await SendMessage(con.Value, message);
         }
 
- public abstract Task Receive(WebSocket socket, WebSocketReceiveResult result, byte[] buffer);
+        public abstract Task Receive(WebSocket socket, WebSocketReceiveResult result, byte[] buffer);
     }
 
     public static class SocketsExtension
